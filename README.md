@@ -1,7 +1,7 @@
-### Hola, mi nombre es Brandon Segura Conejo 👋
+# Hola, mi nombre es Brandon Segura Conejo 👋
 ## Soy un desarrollador full-stack web & de escritorio
 
-# Soy graduado de la UCR, en la carrera de Informatica Empresarial 
+### Soy graduado de la UCR, en la carrera de Informatica Empresarial 
 <!--
 **BrandonSeguraConejo/BrandonSeguraConejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
